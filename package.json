@@ -1,7 +1,7 @@
 {
   "name": "root-detection",
   "version": "0.0.1",
-  "description": "To detect device is Rooted/Jailbreaked or not",
+  "description": "To detect whether device is Rooted/Jailbreaked or not",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",

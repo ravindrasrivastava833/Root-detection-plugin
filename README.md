@@ -1,6 +1,6 @@
 # root-detection
 
-To detect device is Rooted/Jailbreaked or not
+To detect whether device is Rooted/Jailbreaked or not
 
 ## Install
 
